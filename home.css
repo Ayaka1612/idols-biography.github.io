@@ -1,0 +1,103 @@
+body {
+    background-color: rgb(103, 36, 129);
+    margin: 0;
+    padding: 0;
+}
+
+.navigation-bar {
+    display: flex;
+    list-style-type: none;
+    background-color: rgb(113, 0, 90);
+    margin-top: 0;
+    padding: 2rem;
+}
+
+.parent {
+    margin: 10px;
+    padding: 10px;
+}
+
+.menu {
+    display: flex;
+    text-decoration: none;
+    background-color: rgb(113, 0, 90);
+    color: chocolate;
+    padding-left: 10rem;
+    height: 10px;
+}
+
+.Captain {
+    height: 185px;
+    width: 285px;
+}
+
+.btn {
+    background-color: gray;
+    padding: 2px;
+
+}
+
+.btn:hover {
+    background-color: rgb(53, 52, 52);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+h2 {
+    display: inline;
+}
+
+.lana {
+    border-radius: 5px;
+}
+
+.delrey {
+    margin-left: 100px;
+    color: palegoldenrod;
+}
+
+.weeknd {
+    border-radius: 5px;
+
+}
+
+.weeknd1 {
+    margin-left: 240px;
+    color: palegoldenrod;
+
+}
+
+.Captain {
+    border-radius: 5px;
+
+}
+
+.young {
+    margin-left: 210px;
+    color: palegoldenrod;
+
+}
+
+.lalisa {
+    margin-left: 260px;
+    color: palegoldenrod;
+
+}
+
+.kook {
+    border-radius: 5px;
+
+}
+
+.kook1 {
+    margin-left: 100px;
+    color: palegoldenrod;
+
+}
+
+p {
+    background-color: blueviolet;
+    color: antiquewhite;
+    float: right;
+}

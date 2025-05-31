@@ -1,0 +1,34 @@
+body {
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation-bar {
+    display: flex;
+    list-style-type: none;
+    background-color: rgb(144, 88, 98);
+    margin-top: 0;
+    padding: 2rem;
+}
+
+.menu {
+    display: flex;
+    text-decoration: none;
+    color: whitesmoke;
+    padding-left: 10rem;
+    height: 10px;
+}
+
+.lana {
+    width: 250px;
+    height: 270px;
+    float: right;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.652);
+    color: rgba(255, 228, 196, 0.356);
+}
